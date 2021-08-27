@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+Variable: Es un elemento contenedor donde se almacena un tipo de datos.
+
+Strings: Es una cadena ordenada de caracteres.
+
+Funciones: es un conjunto de instruciones para realizar una tarea donde hay una entrada
+y luego una salida.
+
+Declaraciones if: Es una condicion donde evalua dos opciones verdadero o falso y 
+ejecuta una sentencia.
+
+Valores booleanos (true, false): Son un tipo de datos. 
