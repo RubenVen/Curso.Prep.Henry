@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+for
+&&, ||, !
+
+Estos son operadores lógicos Booleanos.
+
+For : Es un ciclo que recorre un número de veces, con una condicion generalmente de 
+frenado.Por ejemplo un cadena; donde "for" puede recorrer caracter por caracter.
+
+&& : Es un operador lógico donde se cumplen dos condiciones para realizar un cálculo.
+
+|| : Es un operador lógico donde una de las condiciones se cumple " o es una condicion 
+verdadera, o es la otra".
+
+! : Es un operador lógico de negación.Ejemplo: "Si es verdadero, la negación "!" 
+resultara lo contrario de verdadero (Falso). 
