@@ -1,0 +1,26 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+Objetos: Son similares a las matrices y la diferencia es que los objetos contienen 
+mucha información de una sola cosa.Los objetos son variables.
+Los objetos tienen propiedad/valor como pares. 
+
+Propiedades: Las propiedades van junto con el valor como pares por ejemplo el objeto 
+"Auto" puede tener la propiedad "Color" y su valor puede ser "Blanco". Las propiedades 
+son únicas.
+
+Métodos: Son acciones que podemos realizar en los objetos. Metodos son funciones.
+
+Bucle for…in: Los bucles sirven para recorrer bloques de codigo una y otra vez.
+Los bucles "For in" sirven para recorrer las propiedades de un objetos.
+
+Notación de puntos vs notación de corchetes: La notacion de puntos (DOT notation) 
+se utiliza mas frecuente, miestas que la notacion por corchetes (BRACKET NOTATION) 
+se utiliza cuando tenemos variables.
