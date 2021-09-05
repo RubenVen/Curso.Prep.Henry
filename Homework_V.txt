@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype
+Constructors (de Clases)
+
+Los prototype: Los protopype es un mecanismo mediante la cual los objetos heredan 
+caracteristicas entre si.
+
+Los objetos heredan propiedades y métodos de un prototipo (yo diria prototipo padre).
+No se si estoy equivocado pero diria que es parecido al arbol de objetos HTML DOM 
+donde un nodo tiene una relacion de jeraquía (nodo padre, hijo, hermano)
+Bueno en el caso de prototype seria como hijo accede al padre asi subiendo de nivel 
+de ser el caso hasta llegar Object que seria el nivel superior de los prototipos.
+
+Constructors (de Clases): Son como plantillas para objetos.Las clases son funciones 
+especiales. Las clases de JavaScript proveen una sintaxis mucho más clara y simple para 
+crear objetos.
