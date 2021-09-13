@@ -1,0 +1,36 @@
+body {
+	background-image: url(pexels-pixabay-33109.jpg);
+}
+.divClass {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div h1{
+	color: aqua;
+}
+div h3, span, a {
+	color: white;
+}
+ul {
+	list-style: none;
+
+}
+img{
+	width: 400px;
+}
+#thirdDiv{
+	width: 500px;
+	height: 600px;
+	background-color: black;
+	padding: 50px;
+	border: 2px solid aqua;
+	display: block;
+	justify-content: center;
+	align-items: center;
+}
+#spanId{
+	font-size: 18px;
+	margin: 50px;
+}
