@@ -1,0 +1,43 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+	background-image: url(pexels-arina-krasnikova-6012822.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+div {
+	background-color: #F8F9F9;
+	border: black solid 1px;
+	padding: 10px;
+}
+img {
+	float: left;
+	border: #6c6c6c solid 1px;
+}
+.pTitle, h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#datos {
+	border: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#email {
+	float: left;
+}
+#tel {
+	margin-left: 5%;
+	float: right;
+}
+legend {
+	color: #014DE0;
+	font-size: 18px;
+}
